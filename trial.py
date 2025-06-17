@@ -1,5 +1,5 @@
 print("Line 1: Hello there!")
-int n=int(input("enter n: "))
+n=int(input("enter n: "))
 print(n)
 print("Line 2: This is a random Python script.")
 print("Line 3: Just printing some stuff...")
