@@ -1,4 +1,4 @@
-print("Line 1: Hello there!")
+print("Line 1: Hello there HIIIIIIIIIIIIII!")
 print("Line 2: This is a random Python script.")
 print("Line 3: Just printing some stuff...")
 print("Line 4: Nothing too serious.")
