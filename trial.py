@@ -1,6 +1,4 @@
 print("Line 1: Hello there!")
-n=int(input("enter n: "))
-print(n)
 print("Line 2: This is a random Python script.")
 print("Line 3: Just printing some stuff...")
 print("Line 4: Nothing too serious.")
